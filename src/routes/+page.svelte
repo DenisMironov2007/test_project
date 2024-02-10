@@ -96,7 +96,7 @@
 						<h3 id="hh1" class="f-title f_600 t_color f_size_18">Каналы</h3>
 						<div class="f_social_icon">
 							<a href="https://www.youtube.com/@a_nevsky30" class="fab_youtube"><img src="youtube_br.png"></a>
-							<a href="#" class="fab fa-twitter"></a>
+							<a href="https://vk.com/bratishka_ahtubinsk" class="fab fa-twitter"><img src="vkontakte.png"></a>
 							<a href="#" class="fab fa-linkedin"></a>
 							<a href="#" class="fab fa-pinterest"></a>
 						</div>

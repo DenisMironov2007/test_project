@@ -2,7 +2,7 @@
 	<title>Главная</title>
 </svelte:head>
 
-<nav <nav class="horizontal-menu plain">>
+<nav class="horizontal-menu plain">
 	<ul>
 		{#each nav as link}
 			{#if link.isShow}
